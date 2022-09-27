@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neviss
-- 👀 I’m interested in developing my skills
+- 👀 I’m interested in developing my skills as a coder and programmer
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me - rigx99@gmail.com
 
